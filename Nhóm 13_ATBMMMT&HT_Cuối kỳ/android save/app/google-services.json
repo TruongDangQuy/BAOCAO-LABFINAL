@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749988754489",
+    "project_id": "moonlit-conduit-363303",
+    "storage_bucket": "moonlit-conduit-363303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749988754489:android:1bfef2b75e388954a609e8",
+        "android_client_info": {
+          "package_name": "com.example.dichvudatxeandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749988754489-373uuhtstqqsb25kc650vsjftob7pha7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZk0bGYCT4Dl64xYtMjNM3KKlCutpTm94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749988754489-373uuhtstqqsb25kc650vsjftob7pha7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
